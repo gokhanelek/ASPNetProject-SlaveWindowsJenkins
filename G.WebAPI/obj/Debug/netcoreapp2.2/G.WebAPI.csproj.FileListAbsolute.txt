@@ -1,0 +1,14 @@
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\bin\Debug\netcoreapp2.2\G.WebAPI.deps.json
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\bin\Debug\netcoreapp2.2\G.WebAPI.runtimeconfig.json
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\bin\Debug\netcoreapp2.2\G.WebAPI.runtimeconfig.dev.json
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\bin\Debug\netcoreapp2.2\G.WebAPI.dll
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\bin\Debug\netcoreapp2.2\G.WebAPI.pdb
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.csprojAssemblyReference.cache
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.csproj.CoreCompileInputs.cache
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.RazorAssemblyInfo.cache
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.RazorAssemblyInfo.cs
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.AssemblyInfoInputs.cache
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.AssemblyInfo.cs
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.RazorTargetAssemblyInfo.cache
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.dll
+D:\ht\gokhanelek\G.WebAPI\G.WebAPI\obj\Debug\netcoreapp2.2\G.WebAPI.pdb
